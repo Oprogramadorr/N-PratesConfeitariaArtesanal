@@ -34,7 +34,7 @@ Este projeto foi criado como parte do meu portfólio principal. O objetivo foi p
 
 O projeto está hospedado e pode ser visto em tempo real no Netlify:
 
-:computer: [**https://n-pratesconfeitariaartesanal.netlify.app**](oprogramador-confeitaria.netlify.app)
+:computer: [**https://oprogramador-confeitaria.netlify.app**](https://oprogramador-confeitaria.netlify.app)
 
 ## Licença:
 

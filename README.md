@@ -1,43 +1,42 @@
-# Na Prates - Confeitaria
+# Padaria Premium (Projeto de Portfólio)
 
-## About:
+> Projeto de portfólio. Um redesign moderno de um site de padaria/confeitaria, focado em um tema escuro ("dark mode"), animações imersivas e uma experiência de usuário premium.
 
-> Web app comercial para demonstração e venda de doces e confeitaria da marca **Na Prates**
+![GitHub last commit](https://img.shields.io/github/last-commit/Oprogramadorr/N-PratesConfeitariaArtesanal?color=lightblue&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/Oprogramadorr/N-PratesConfeitariaArtesanal?color=lightblue&logoColor=l&style=for-the-badge)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/felipesoliver/naprates-confeitaria?color=lightblue&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/felipesoliver/naprates-confeitaria?color=lightblue&logoColor=l&style=for-the-badge)
+## Conteúdo:
 
-## Contents:
+* [Sobre:](#sobre)
+* [Status do Projeto:](#status-do-projeto)
+* [Tecnologias Utilizadas:](#tecnologias-utilizadas)
+* [Demo Ao Vivo:](#demo-ao-vivo)
+* [Licença:](#licença)
 
-* [About:](#about)
-* [Project Status:](#project-status)
-* [Roadmap:](#roadmap)
-* [Website Demo:](#website-demo)
-* [License:](#license)
+## Sobre:
 
-## Project Status:
+Este projeto foi criado como parte do meu portfólio principal. O objetivo foi pegar um conceito de site de padaria tradicional (claro, focado em laranja) e reimaginá-lo com uma estética "tech" moderna, alinhada com a identidade visual do meu portfólio "O Programador".
 
-> :construction: Under construction.
+## Status do Projeto:
 
-## Roadmap:
+> :rocket: **Versão 1.0 Lançada!**
 
-- [x] Desktop design
-- [x] Responsive design
-- [x] Scripts for catalogue's sliders  
-- [ ] Contact form front n' back end settings
-- [ ] SEO improvements
-- [ ] First release launchment
+## Tecnologias Utilizadas:
 
-## Website Demo:
+- [x] **HTML5** (Estrutura semântica)
+- [x] **CSS3 Moderno** (Tema Escuro, Variáveis, Grid/Flexbox)
+- [x] **Animações CSS** (Efeitos 3D Tilt, Spotlight no Hover)
+- [x] **JavaScript (ES6+)**
+- [x] **Integração com WhatsApp** (Formulário de encomenda)
+- [x] **Design Responsivo** (Mobile-first)
 
-#### :computer: Desktop Version:
+## Demo Ao Vivo:
 
-> ![Desktop Version](/assets/01.jpg)
+O projeto está hospedado e pode ser visto em tempo real no Netlify:
 
-### :iphone: Mobile Version:
+:computer: [**https://n-pratesconfeitariaartesanal.netlify.app**](https://n-pratesconfeitariaartesanal.netlify.app)
+*(Se o seu link do Netlify for diferente, lembre-se de atualizá-lo aqui)*
 
-> ![Mobile Version](/assets/06.jpg)
+## Licença:
 
-## License:
-
-MIT © [FelipeSOliver](/LICENSE.md)
+MIT © [Oprogramadorr](LICENSE.md)
